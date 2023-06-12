@@ -1,0 +1,128 @@
+--------------------------MACROFASI----------------------------
+
+1
+trip planning
+URL:
+https://bcg-playground.herokuapp.com/bocconi/trip-planning.html
+
+2
+transfer & arrival
+URL:
+
+3
+check in & attendance
+URL:
+
+4
+on-boarding
+URL:
+
+5
+crossing
+URL:
+
+6
+off-boarding
+URL:
+
+7
+review
+URL:
+
+--------------------------MICROFASI----------------------------
+
+1
+info gathering
+URL:
+
+2
+trip reservation
+URL:
+
+3
+transfer to space harbour
+URL:
+
+4
+biometrics / DNA scan / personal vehicle scan
+URL:
+
+5
+reach boarding platform
+URL:
+
+6
+ticket validation
+URL:
+
+7
+boarding attendance
+URL:
+
+8
+access the space ship
+URL:
+
+9
+path finding for dock area
+URL:
+
+10
+docking personal spacecraft
+URL:
+
+11
+access seat & spacecraft loung
+URL:
+
+12
+managing travel time
+URL:
+
+13
+off-boarding prep
+URL:
+
+14
+access un-docking personal spacecraft area
+URL:
+
+15
+off-boarding spacecraft
+URL:
+
+16
+exit space station
+URL:
+
+17
+orientation
+URL:
+
+18
+trip evaluation
+URL:
+
+19
+custom support
+URL:
+
+--------------------------ERRORI----------------------------
+
+connect with customer
+URL:
+
+up-sell and cross-sell
+URL:
+
+advocacy
+URL:
+
+welcome on board
+URL:
+
+boarding operations
+URL:
+
+flight attendance service
+URL:

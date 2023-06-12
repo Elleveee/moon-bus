@@ -1,0 +1,50 @@
+</!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="initial-scale=1.0, width=device-width, user-scalable=0">
+
+	<title>Moon Bus</title>
+
+	<link rel="stylesheet" href="style.css">
+	<link rel="icon" href="1x/favicon_1.png">
+	<script src="script.js"></script>
+
+<!-- VALORE CORRETTO DELLO STEP-->
+	<script type="text/javascript">var truevalue = 15</script>
+</head>
+
+<body>
+<!-- SOLO PER RESPONSIVENESS-->
+	<div>
+		<h1 id="responsive">Sorry! not avaiable for this device :(<br>Try a smartphone</h1>
+	</div>
+
+<!-- PAGINA -->
+	<img src="SVG/SVG/logos.svg" id="logos">
+	<div class="container">
+			<img src="SVG/SVG/arrow.svg" id="arrow">
+	</div>
+	<h1 class="title">OFF-BOARDING SPACECRAFT</h1>
+	<div>
+		<div class="animation">
+			<img src="SVG/correct.svg" id="correct">
+			<img src="SVG/wrong.svg" id="wrong">
+			<div id="star2"></div>
+			<img src="SVG/orbita1.svg" id="orbit1">
+			<img src="SVG/orbita2.svg" id="orbit2">
+		</div>
+		<div>
+<!-- ------ QUI VARIABILE ------ -->
+			<p id="correct-answer"><b>Correct answer:</b><br>Step 15</p>
+		</div>
+	</div>
+	<div class="CTA">
+		<div class="CTA">
+		<input type="number" id="numstep" required name="numstep" placeholder="Insert the step number"><br>
+  		<input type="button" value="Submit" id="submit" onclick="checkmatch()">
+	</div>
+	</div>
+	<img src="SVG/SVG/chip.svg" id="chip">
+</body>
+</html>
